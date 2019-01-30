@@ -1,24 +1,24 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <channel>
         <title>[FB Test Page] [FB-Only] Chen Test Ads</title>
-        <link>https://lolitschen.github.io/test.rss</link>
+        <link>https://lolitschen.github.io/test2.rss</link>
         <description>
           Read our awesome news every day.
         </description>
         <language>en-us</language>
-        <lastBuildDate>2019-01-30 14:09:59</lastBuildDate>
+        <lastBuildDate>2019-01-30 15:00:21</lastBuildDate>
         <item>
           <title>Chen's sample article.</title>
-          <link>http://lolitschen.github.io/chenlu1/testarticle:timestamp:1548886199</link>
-          <guid>85e13136-9690-b167-8e86-a1dcc80e2e34</guid>
-          <pubDate>2019-01-30 14:09:59</pubDate>
+          <link>http://lolitschen.github.io/chenlu1/testarticle:timestamp:1548889220</link>
+          <guid>5cad0d86-fbdf-5aba-adbe-8cf74aa8509a</guid>
+          <pubDate>2019-01-30 15:00:21</pubDate>
           <content:encoded>
             <![CDATA[
               <!doctype html>
               <html lang="en" prfix="op: http://media.facebook.com/op#">
               <head>
               <meta charset="utf-8">
-              <link rel="canonical" href="http://lolitschen.github.io/chenlu1/testarticle:timestamp:1548886199">
+              <link rel="canonical" href="http://lolitschen.github.io/chenlu1/testarticle:timestamp:1548889220">
               <meta property="op:markup_version" content="v1.0">
               <meta property="fb:use_automatic_ad_placement" content="enable=true ad_density=default">
               <meta property="fb:op-recirculation-ads" content="placement_id=505811482903723_779160638902138">
