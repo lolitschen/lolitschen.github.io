@@ -1,23 +1,22 @@
 <rss version="2.0">
-    <channel>
-        <title>Business Insider</title>
-        <link>http://lolitschen.github.io</link>
-        <description>Sample description</description>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 26 Apr 19 15:43:36 +0000</lastBuildDate>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>How to use Amazon Fresh to get groceries delivered straight to your door</title>
-            <link>/how-to-use-amazon-fresh</link>
-            <guid>5c9d0e292cc74031d528e014</guid>
-            <pubDate>2019-04-27T14:00:00-04:00</pubDate>
-            <author>Lulu Chang</author>
-            <description>Amazon Fresh makes it easy to get groceries delivered straight to your home. Here's how to use Amazon Fresh.</description>
-            <content:encoded>
-                <![CDATA[
-
+  <channel>
+    <title>Business Insider</title>
+    <link>http://lolitschen.github.io</link>
+    <description>Sample description</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 19 15:43:36 +0000</lastBuildDate>
+    <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <title>How to use Amazon Fresh to get groceries delivered straight to your door</title>
+  <link>/how-to-use-amazon-fresh</link>
+  <guid>5c9d0e292cc74031d528e014</guid>
+  <pubDate>2019-04-27T14:00:00-04:00</pubDate>
+  <author>Lulu Chang</author>
+  <description>Amazon Fresh makes it easy to get groceries delivered straight to your home. Here's how to use Amazon Fresh.</description>
+  <content:encoded><![CDATA[
+                
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
-
+  
   <head>
     <meta charset="utf-8"/>
     <link rel="canonical" href="/how-to-use-amazon-fresh"/>
@@ -143,14 +142,14 @@
     involve a doorstep - if your
     building has a secure entry or limited access, this may not be
     the best option. 
-
+    
   </li>
   <li>
     If you need to change delivery
     times or dates, be sure that you do so before the order has
     started processing. This can be done through <em>Order
     Details</em>. 
-
+    
   </li>
 </ul>
       <h2>
@@ -263,23 +262,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
     </article>
   </body>
 </html>
-
-                ]]>
-            </content:encoded>
-        </item>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend</title>
-            <link>/hired-house-cleaner-time-is-worth-money-2019-4</link>
-            <guid>5ca387d4c6cc50402d762634</guid>
-            <pubDate>2019-04-28T10:30:00-04:00</pubDate>
-            <author>Anna Baluch</author>
-            <description>Paying for a house cleaner started to change the way she thinks about outsourcing tasks, and how it can be worth spending money to save time.</description>
-            <content:encoded>
-                <![CDATA[
-
+                
+                ]]></content:encoded>
+</item>
+    <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <title>After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend</title>
+  <link>/hired-house-cleaner-time-is-worth-money-2019-4</link>
+  <guid>5ca387d4c6cc50402d762634</guid>
+  <pubDate>2019-04-28T10:30:00-04:00</pubDate>
+  <author>Anna Baluch</author>
+  <description>Paying for a house cleaner started to change the way she thinks about outsourcing tasks, and how it can be worth spending money to save time.</description>
+  <content:encoded><![CDATA[
+                
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
-
+  
   <head>
     <meta charset="utf-8"/>
     <link rel="canonical" href="/hired-house-cleaner-time-is-worth-money-2019-4"/>
@@ -352,9 +349,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
   decided to try a cleaning service. 
 </p>
       <figure class="op-interactive">
-
+                
                 <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
+                
                 </figure>
       <p>
   I asked for recommendations for trustworthy and professional
@@ -384,9 +381,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
   time.
 </p>
       <figure class="op-interactive">
-
+                
                 <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
+                
                 </figure>
       <p>
   Also, it's more important to me to spend the weekends relaxing
@@ -405,9 +402,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
   Tuesday of every month and work her magic.
 </p>
       <figure class="op-interactive">
-
+                
                 <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
+                
                 </figure>
       <p>
   Hiring Lisa has showed me that it's worth it to spend money on
@@ -518,23 +515,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
     </article>
   </body>
 </html>
-
-                ]]>
-            </content:encoded>
-        </item>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street</title>
-            <link>/jump-trading-invests-in-the-small-exchange-2019-4</link>
-            <guid>5cb79ca3daa9a905a3491f6d</guid>
-            <pubDate>2019-04-30T16:20:00-04:00</pubDate>
-            <author>Dan DeFrancesco</author>
-            <description>Jump Capital, the venture investing arm of Chicago-based Jump Trading, invested $5 million in the Small Exchange.</description>
-            <content:encoded>
-                <![CDATA[
-
+                
+                ]]></content:encoded>
+</item>
+    <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <title>One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street</title>
+  <link>/jump-trading-invests-in-the-small-exchange-2019-4</link>
+  <guid>5cb79ca3daa9a905a3491f6d</guid>
+  <pubDate>2019-04-30T16:20:00-04:00</pubDate>
+  <author>Dan DeFrancesco</author>
+  <description>Jump Capital, the venture investing arm of Chicago-based Jump Trading, invested $5 million in the Small Exchange.</description>
+  <content:encoded><![CDATA[
+                
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
-
+  
   <head>
     <meta charset="utf-8"/>
     <link rel="canonical" href="/jump-trading-invests-in-the-small-exchange-2019-4"/>
@@ -742,9 +737,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
     </article>
   </body>
 </html>
-
-                ]]>
-            </content:encoded>
-        </item>
-    </channel>
+                
+                ]]></content:encoded>
+</item>
+ </channel>
 </rss>
