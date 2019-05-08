@@ -1,750 +1,225 @@
-<rss version="2.0">
-    <channel>
-        <title>Business Insider</title>
-      <link>http://lolitschen.github.io</link>
-        <description>Sample description</description>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 26 Apr 19 15:43:36 +0000</lastBuildDate>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>How to use Amazon Fresh to get groceries delivered straight to your door</title>
-            <link>/how-to-use-amazon-fresh</link>
-            <guid>5c9d0e292cc74031d528e014</guid>
-            <pubDate>2019-04-27T14:00:00-04:00</pubDate>
-            <author>Lulu Chang</author>
-            <description>Amazon Fresh makes it easy to get groceries delivered straight to your home. Here's how to use Amazon Fresh.</description>
-            <content:encoded>
-                <![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
+<channel>
+	<title>Superhit Video</title>
+	<atom:link href="https://superhitvideo.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://lolitschen.github.io</link>
+	<description>Songs</description>
+	<lastBuildDate>Sat, 19 Jan 2019 13:34:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<item>
+		<title>7 rings Lyrics &#8211; Ariana Grande &#8211; Official Video</title>
+		<link>https://superhitvideo.com/7-rings-lyrics/</link>
+		<comments>https://superhitvideo.com/7-rings-lyrics/#respond</comments>
+		<pubDate>Fri, 18 Jan 2019 20:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Ariana Grande - 7 rings]]></category>
+		<category><![CDATA[Ariana Grande - 7 rings - Official Music Video Lyrics Song]]></category>
 
-  <head>
-    <meta charset="utf-8"/>
-    <link rel="canonical" href="/how-to-use-amazon-fresh"/>
-    <meta property="op:markup_version" content="v1.0"/>
-    <meta property="fb:use_automatic_ad_placement" content="true"/>
-    <meta property="fb:article_style" content="default"/>
-    <meta property="og:title" content="How to use Amazon Fresh to get groceries delivered straight to your door"/>
-    <meta property="og:description" content="Amazon Fresh makes it easy to get groceries delivered straight to your home. Here's how to use Amazon Fresh."/>
-    <meta property="og:image" content="https://amp.businessinsider.com/images/5cbdeacac3a7c16a95386ac4-960-720.jpg"/>
-  </head>
-  <body>
-    <article>
-      <header>
-        <time class="op-modified" datetime="2019-04-22T16:33:03">Apr 22, 2019 | 4:33 PM</time>
-        <time class="op-published" datetime="2019-04-27T14:00:00-04:00">Apr 27, 2019 | 2:00 PM</time>
-        <address>
-          <a>Lulu Chang</a>
-        </address>
-        <figure>
-          <img src="https://amp.businessinsider.com/images/5cbdeacac3a7c16a95386ac4-960-720.jpg"/>
-          <figcaption class="op-medium op-left">
-            <cite>Amazon</cite>
-          </figcaption>
-        </figure>
-        <h1>How to use Amazon Fresh to get groceries delivered straight to your door</h1>
-        <h3 class="op-kicker">Insider Picks</h3>
-        <figure class="op-audience-network" dataplacement-id="997092730347328997092753680659"/>
-      </header>
-      <p>Insider Picks writes about products and services to help you navigate when shopping online. Insider Inc. receives a commission from our affiliate partners when you buy through our links, but our reporting and recommendations are always independent and objective.</p>
-      <figure>
-        <img src="https://amp.businessinsider.com/images/5cbdeacac3a7c16a95386ac4-960-720.jpg"/>
-        <figcaption class="op-medium op-left">
-          <cite>Amazon</cite>
-        </figcaption>
-      </figure>
-      <ul>
-  <li>
-    <strong>Grocery shopping can be a real hassle - especially if
-    you live far from grocery stores.</strong>
-  </li>
-  <li>Depending on where you live, you can get groceries delivered
-  right to your door with <a href="https://amzn.to/2IOpn5O">AmazonFresh</a>.
-  </li>
-  <li>Here's how to sign up for the service and how to use it.
-  </li>
-</ul>
-      <p>
-  You can cross the grocery store
-  off your list of things to do this week, even if you're not
-  crossing off grocery shopping.
-</p>
-      <p>
-  What, you say, is this black
-  magic? No magic, but rather the joy of <a href="https://amzn.to/2IOpn5O">AmazonFresh</a>. The online retailer has brought together
-  ecommerce and fresh produce, and it may just be the best feature
-  that Amazon has to offer. Here's how to sign up for the grocery
-  delivery service.
-</p>
-      <h2>
-  <strong>1. Check to see if <a href="https://amzn.to/2IOpn5O">AmazonFresh</a> is available where
-  you live</strong>
-</h2>
-      <p>
-  To determine whether or not your
-  zip code qualifies, visit Amazon.com/AmazonFresh. If the service
-  is available, you're in luck! Continue onward.
-</p>
-      <h2>
-  <strong>2. Sign up for your free 30-day trial</strong>
-</h2>
-      <p>
-  In order to entice new
-  subscribers to try out the service, Amazon is offering up a
-  30-day free trial for new members. Simply select "Start your
-  30-day free trial," and follow the on-screen instructions. If you
-  enjoy the experience and want to continue past your 30-day trial,
-  <a href="https://amzn.to/2IOpn5O">AmazonFresh</a> will set you back $14.99 per
-  month.
-</p>
-      <h2>
-  <strong>3. Start shopping locally</strong>
-</h2>
-      <p>
-  Once you've signed up, you can
-  order fresh produce and groceries for delivery either later on
-  the same day or the very next day. You'll be able to browse
-  selections from local shops and supermarkets, buying everything
-  from fresh fish to berries to rolls of paper towels. Amazon has
-  divided its online grocery store into a few easy categories,
-  including Dairy, Deli, Bakery, Fresh Fruit, Meal Kits, and
-  Beverages.
-</p>
-      <h2>
-  <strong>4. Decide how you want
-  your delivery</strong>
-</h2>
-      <p>
-  There are a few options for
-  delivery:
-</p>
-      <ul>
-  <li>
-    Attended delivery is available
-    in all cities where AmazonFresh is available. Simply select a
-    one-hour time slot when you'll be around to receive your
-    groceries. You'll receive items in paper bags rather than the
-    traditional temperature-controlled tote.
-  </li>
-  <li>
-    You could also elect to have
-    your order left with a doorman or security guard. Simply leave
-    instructions when necessary for delivery on the preview order
-    page under delivery instructions. 
-  </li>
-  <li>
-    Doorstep Delivery is also
-    available in all cities where AmazonFresh is available. Rather
-    than a one-hour time slot, you'll be selecting a two to
-    three-hour time slot that fits with your schedule. When you get
-    home, you'll find your groceries on your doorstep in a
-    temperature-controlled tote. Note that Doorstep Delivery
-    <em>must</em>
-    involve a doorstep - if your
-    building has a secure entry or limited access, this may not be
-    the best option. 
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1243</guid>
+		<description><![CDATA[<p>Ariana Grande &#8211; 7 rings &#8211; Official Music Video Lyrics Song Ariana Grande &#8211; 7 rings Lyrics Yeah, breakfast at Tiffany&#8217;s and bottles of bubbles Girls with tattoos who like getting in trouble Lashes and diamonds, ATM machines Buy my self all of my favorite things (Yeah) Been through some bad shit, I should be [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/7-rings-lyrics/">7 rings Lyrics &#8211; Ariana Grande &#8211; Official Video</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/7-rings-lyrics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lil Peep &#8211; 16 Lines Lyrics (Official Music Video)</title>
+		<link>https://superhitvideo.com/lil-peep-16-lines/</link>
+		<comments>https://superhitvideo.com/lil-peep-16-lines/#respond</comments>
+		<pubDate>Wed, 16 Jan 2019 20:17:10 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Lil Peep - 16 Lines Lyrics (Official Music Video) Song Lyrics]]></category>
 
-  </li>
-  <li>
-    If you need to change delivery
-    times or dates, be sure that you do so before the order has
-    started processing. This can be done through <em>Order
-    Details</em>. 
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1238</guid>
+		<description><![CDATA[<p>Lil Peep &#8211; 16 Lines Lyrics (Official Music Video) Lil Peep &#8211; 16 Lines Lyrics Sixteen lines of blow and I&#8217;m fine Break my bones, but act as my spine Wonder who you&#8217;ll fuck when I die And if I tried to call, would you cry? Please don&#8217;t cry, you&#8217;re wasting your time Sixteen lines [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/lil-peep-16-lines/">Lil Peep &#8211; 16 Lines Lyrics (Official Music Video)</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/lil-peep-16-lines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Karol G &#8211; Secreto Lyrics (Official Music Video)</title>
+		<link>https://superhitvideo.com/karol-g-secreto-lyrics/</link>
+		<comments>https://superhitvideo.com/karol-g-secreto-lyrics/#respond</comments>
+		<pubDate>Wed, 16 Jan 2019 19:41:43 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Song Lyrics Music Video]]></category>
 
-  </li>
-</ul>
-      <h2>
-  <strong>5. Pay for your delivery</strong>
-</h2>
-      <p>
-  Depending on what city you live
-  in, there may be a different free shipping threshold. Assuming
-  you've surpassed this threshold (it's generally low enough to be
-  easily surpassed if you're shopping for a week's worth of
-  groceries), then both Attended and Doorstep Delivery are free. If
-  you don't pass the local free shipping threshold before tax,
-  you'll have to pay a $9.99 delivery fee.
-</p>
-      <h2>
-  <strong>6. Alternatively, use <a href="https://amzn.to/2IOpn5O">AmazonFresh</a> Pickup</strong>
-</h2>
-      <p>
-  This option is available only in
-  select cities, is completely free, and does not require an order
-  minimum. Simply select your groceries and then choose a pickup
-  location as your <a href="https://amzn.to/2IOpn5O">AmazonFresh</a> account address, then
-  reserve a time slot. Your groceries could be ready for pickup in
-  as little as 30 minutes.
-</p>
-      <p>
-  While you may have a bit of
-  trepidation around buying groceries sight unseen, know that
-  Amazon's customer service team makes shopping on AmazonFresh
-  quite seamless. You have a 30-day refund policy at your disposal
-  if you aren't satisfied with the condition of your Fresh
-  items.
-</p>
-      <h2>
-  <a href="https://amzn.to/2IOpn5O">Click here to sign up for a free trial of
-  AmazonFresh</a>
-</h2>
-      <figure class="op-tracker">
-        <iframe>
-          <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8G4HM" height="0" width="0" style="display:none;visibility:hidden"/>
-          </noscript>
-          <script type="text/javascript">
-Author = "Lulu Chang"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1231</guid>
+		<description><![CDATA[<p>Anuel AA, Karol G &#8211; Secreto Lyrics (Official Music Video) pero siempre nos, Anuel AA Karol G &#8211; Secreto Lyrics, pero siempre nos vemos, Anuel AA Karol G &#8211; Secreto Karol G &#8211; Secreto Lyrics Bebecita, Bebe-bebecita, uah, Bebecita Lo de nosotro&#8217; e&#8217; un secreto Que nadie se entere (Uah) Baby, yo siempre me vengo [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/karol-g-secreto-lyrics/">Karol G &#8211; Secreto Lyrics (Official Music Video)</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/karol-g-secreto-lyrics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I&#8217;m Sorry Lyrics &#8211; Drag Me Out (Official Video)</title>
+		<link>https://superhitvideo.com/im-sorry-lyrics/</link>
+		<comments>https://superhitvideo.com/im-sorry-lyrics/#respond</comments>
+		<pubDate>Tue, 15 Jan 2019 07:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%%]]></category>
+		<category><![CDATA[Drag Me Out - I'm Sorry Lyrics Official Music Video]]></category>
+		<category><![CDATA[Lyrics song]]></category>
+		<category><![CDATA[Songs Lyrics]]></category>
+		<category><![CDATA[Songs Lyrics Videos]]></category>
 
-Category = "AmazonFresh|Groceries|Insider Picks 2019|Insider Picks How To|Shopping How To|Amazon Product Coverage"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1221</guid>
+		<description><![CDATA[<p>DRAG ME OUT &#8211; I&#8217;m Sorry (Official Music Video) I&#8217;m Sorry Lyrics &#8211; Drag Me Out, I&#8217;m Sorry Lyrics Official Music Video, Drag Me Lyrics. I&#8217;m Sorry Lyrics I see it in your eyes it&#8217;s all been gone No matter what we&#8217;ve lost it&#8217;s running dry You&#8217;re fading way too fast The truth you can&#8217;t [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/im-sorry-lyrics/">I&#8217;m Sorry Lyrics &#8211; Drag Me Out (Official Video)</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/im-sorry-lyrics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Always Remember Us This Way Lyrics</title>
+		<link>https://superhitvideo.com/always-remember-us-this-way-lyrics/</link>
+		<comments>https://superhitvideo.com/always-remember-us-this-way-lyrics/#comments</comments>
+		<pubDate>Sun, 13 Jan 2019 09:33:09 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[A Star Is Born]]></category>
+		<category><![CDATA[A Star Is Born Soundtrack]]></category>
+		<category><![CDATA[Always Remember Us This Way Lyrics]]></category>
+		<category><![CDATA[find the words]]></category>
+		<category><![CDATA[Lady Gaga - Always Remember Us This Way Lyrics]]></category>
+		<category><![CDATA[Lady Gaga Always Remember Us This Way]]></category>
+		<category><![CDATA[Lady Gaga Lyrics]]></category>
+		<category><![CDATA[Lady Gaga New Songs]]></category>
+		<category><![CDATA[remember]]></category>
 
-Editor = "Malarie Gokey"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1198</guid>
+		<description><![CDATA[<p>(From A Star Is Born Soundtrack) Lady Gaga &#8211; Always Remember Us This Way Always Remember Us This Way Lyrics, find the words, Lady Gaga Lyrics, Remember, Lady Gaga New Songs Always Remember Us This Way Lyrics That Arizona sky burning in your eyes You look at me and, babe, I wanna catch on fire [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/always-remember-us-this-way-lyrics/">Always Remember Us This Way Lyrics</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/always-remember-us-this-way-lyrics/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Natti Natasha &#8211; Me Gusta &#8211; Official Music Video</title>
+		<link>https://superhitvideo.com/natti-natasha-me-gusta/</link>
+		<comments>https://superhitvideo.com/natti-natasha-me-gusta/#respond</comments>
+		<pubDate>Sun, 13 Jan 2019 07:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[2019 New Songs]]></category>
+		<category><![CDATA[Me Gusta Lyrics]]></category>
+		<category><![CDATA[Natti Natasha - Me Gusta Lyrics]]></category>
+		<category><![CDATA[Natti Natasha All Songs]]></category>
+		<category><![CDATA[Nitti Natasha 2019 New Songs]]></category>
+		<category><![CDATA[piensas cuando estoy lejos de]]></category>
+		<category><![CDATA[Popular Natti Natasha Songs]]></category>
+		<category><![CDATA[que nunca te vi]]></category>
+		<category><![CDATA[Superhit Video Songs]]></category>
+		<category><![CDATA[y sí yo sé que]]></category>
+		<category><![CDATA[yo sé que la noche]]></category>
 
-Vertical = "insiderpicks"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1193</guid>
+		<description><![CDATA[<p>Official Music Video &#8211; Natti Natasha &#8211; Me Gusta Natti Natasha &#8211; Me Gusta Lyrics, Superhit Video Songs, que nunca te vi, y sí yo sé que, yo sé que la noche, piensas cuando estoy lejos de, Me Gusta Lyrics. Natti Natasha &#8211; Me Gusta Lyrics Natti Na&#8217;, Natti Na&#8217; Me-Me-Me-Me gusta lo&#8217; beso&#8217; prohibido&#8217;, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/natti-natasha-me-gusta/">Natti Natasha &#8211; Me Gusta &#8211; Official Music Video</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/natti-natasha-me-gusta/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Like It Lyrics &#8211; Cardi B, Bad Bunny &#038; J Balvin</title>
+		<link>https://superhitvideo.com/i-like-it-lyrics/</link>
+		<comments>https://superhitvideo.com/i-like-it-lyrics/#comments</comments>
+		<pubDate>Tue, 08 Jan 2019 06:01:30 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Baby Songs]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Dance Videos]]></category>
+		<category><![CDATA[district in the jag]]></category>
+		<category><![CDATA[gang gang gang]]></category>
+		<category><![CDATA[I Like It Lyrics]]></category>
+		<category><![CDATA[Official Music Video Song Lyrics]]></category>
+		<category><![CDATA[Superhit Video]]></category>
+		<category><![CDATA[Tips and Tricks]]></category>
 
-PageType = "post"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1125</guid>
+		<description><![CDATA[<p>Cardi B, Bad Bunny &#38; J Balvin &#8211; I Like It &#8211; Official Music Video I Like It Lyrics &#8211; gang gang gang Yeah baby, I like it like that You gotta believe me when I tell you I said I like it like that You gotta believe me when I tell you I said [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/i-like-it-lyrics/">I Like It Lyrics &#8211; Cardi B, Bad Bunny &#038; J Balvin</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/i-like-it-lyrics/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Chris Brown &#8211; Undecided Lyrics &#8211; Official Video</title>
+		<link>https://superhitvideo.com/chris-brown-undecided-lyrics/</link>
+		<comments>https://superhitvideo.com/chris-brown-undecided-lyrics/#respond</comments>
+		<pubDate>Mon, 07 Jan 2019 13:26:10 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Baby Songs]]></category>
+		<category><![CDATA[Chris Brown - Undecided Lyrics]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Dance Videos]]></category>
+		<category><![CDATA[Live Show and Jukebox songs]]></category>
+		<category><![CDATA[Official Music Video Song Lyrics]]></category>
+		<category><![CDATA[Tips and Tricks]]></category>
 
-PostURI = "how-to-use-amazon-fresh"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1121</guid>
+		<description><![CDATA[<p>Official Music Video &#8211; Chris Brown &#8211; Undecided Chris Brown &#8211; Undecided Lyrics Do-do-do-do-do-do-do Do-do-do-do-do-do-do Do-do-do-do-do-do-do-do No, I don&#8217;t say it often And I probably should’ve told you I hurt this bad, I know And I probably shouldn&#8217;t want this so bad It&#8217;s weighing, weighing on me Don’t wanna wake up in the mornin&#8217; Cannot [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/chris-brown-undecided-lyrics/">Chris Brown &#8211; Undecided Lyrics &#8211; Official Video</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/chris-brown-undecided-lyrics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Marshmello &#038; Anne-Marie &#8211; Friends Lyrics</title>
+		<link>https://superhitvideo.com/marshmello-anne-marie-friends-lyrics/</link>
+		<comments>https://superhitvideo.com/marshmello-anne-marie-friends-lyrics/#comments</comments>
+		<pubDate>Fri, 04 Jan 2019 15:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Anne-Marie]]></category>
+		<category><![CDATA[Marshmello]]></category>
 
-AuthorType = "staff"
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1091</guid>
+		<description><![CDATA[<p>[Alternative Music Video] Marshmello &#38; Anne-Marie &#8211; FRIENDS Marshmello &#38; Anne-Marie &#8211; Friends Lyrics (Ooh ooh, ooh ooh)x2 You say you love me, I say you crazy We&#8217;re nothing more than friends You&#8217;re not my lover, more like a brother I known you since we were like ten, yeah Don&#8217;t mess it up, talking that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/marshmello-anne-marie-friends-lyrics/">Marshmello &#038; Anne-Marie &#8211; Friends Lyrics</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/marshmello-anne-marie-friends-lyrics/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Hardwell &#8211; How You Love Me Lyrics</title>
+		<link>https://superhitvideo.com/hardwell-how-you-love-me-lyrics/</link>
+		<comments>https://superhitvideo.com/hardwell-how-you-love-me-lyrics/#comments</comments>
+		<pubDate>Fri, 04 Jan 2019 13:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[SuperHit]]></dc:creator>
+				<category><![CDATA[Lyrics]]></category>
+		<category><![CDATA[Baby Songs]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Dance Videos]]></category>
+		<category><![CDATA[Hardwell - How You Love Me Lyrics]]></category>
+		<category><![CDATA[Live Show and Jukebox songs]]></category>
+		<category><![CDATA[Official Music Video Song Lyrics]]></category>
+		<category><![CDATA[Tips and Tricks]]></category>
 
-DateCreated = "2019-03-28"
-
-DatePublished = "2019-04-27"
-
-OriginalID = ""
-
-PostId = "5c9d0e292cc74031d528e014"
-
-AuthorPublisher = "Business Insider"
-
-ArticleTitle = "How to use Amazon Fresh to get groceries delivered straight to your door"
-
-CreateUser = "Daniel Bakst"
-</script>
-          <script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P8G4HM');
-                </script>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <img src="http://www.businessinsider.com/track.gif?post_type=post&post_author_ids=&post_author=Lulu Chang&post_id=5c9d0e292cc74031d528e014&vertical=insiderpicks&referer=http://app.fbinstant.com&location=http://www.businessinsider.com/how-to-use-amazon-fresh"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <script type="text/javascript">
-                    var _sf_async_config = {};
-                    _sf_async_config.uid = 14447;
-                    _sf_async_config.domain = 'businessinsider.com';
-                    _sf_async_config.sections = 'insiderpicks,sai,thelife';
-                    _sf_async_config.authors = 'Lulu Chang';
-                    _sf_async_config.type = 'story';
-                    _sf_async_config.useCanonical = true;
-                    window._sf_endpt = (new Date()).getTime();
-                </script>
-          <script defer="defer" src="//static.chartbeat.com/js/chartbeat_fia.js"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker"><iframe><script>
-                    var _comscore = _comscore || [];
-                    _comscore.push({c1:"2",c2:"13194393",options:{url_append:"comscorekw=fbia"}});
-                    (function() {
-                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-                    el.parentNode.insertBefore(s, el);
-                    })();
-                </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=13194393&amp;cv=2.0&amp;cj=1&amp;comscorekw=fbia"/></noscript></iframe></figure>
-    </article>
-  </body>
-</html>
-
-                ]]>
-            </content:encoded>
-        </item>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend</title>
-            <link>/hired-house-cleaner-time-is-worth-money-2019-4</link>
-            <guid>5ca387d4c6cc50402d762634</guid>
-            <pubDate>2019-04-28T10:30:00-04:00</pubDate>
-            <author>Anna Baluch</author>
-            <description>Paying for a house cleaner started to change the way she thinks about outsourcing tasks, and how it can be worth spending money to save time.</description>
-            <content:encoded>
-                <![CDATA[
-
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-
-  <head>
-    <meta charset="utf-8"/>
-    <link rel="canonical" href="/hired-house-cleaner-time-is-worth-money-2019-4"/>
-    <meta property="op:markup_version" content="v1.0"/>
-    <meta property="fb:use_automatic_ad_placement" content="true"/>
-    <meta property="fb:article_style" content="default"/>
-    <meta property="og:title" content="After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend"/>
-    <meta property="og:description" content="Paying for a house cleaner started to change the way she thinks about outsourcing tasks, and how it can be worth spending money to save time."/>
-    <meta property="og:image" content="https://amp.businessinsider.com/images/5ca4cdf7c6cc50591a75aeaa-1536-1152.jpg"/>
-  </head>
-  <body>
-    <article>
-      <header>
-        <time class="op-modified" datetime="2019-04-26T13:18:37">Apr 26, 2019 | 1:18 PM</time>
-        <time class="op-published" datetime="2019-04-28T10:30:00-04:00">Apr 28, 2019 | 10:30 AM</time>
-        <address>
-          <a>Anna Baluch</a>
-        </address>
-        <figure>
-          <img src="https://amp.businessinsider.com/images/5ca4cdf7c6cc50591a75aeaa-1536-1152.jpg"/>
-          <figcaption class="op-medium op-left">
-            <h1>The author is not pictured.</h1>
-            <cite>Rawpixel/Getty Images</cite>
-          </figcaption>
-        </figure>
-        <h1>After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend</h1>
-        <h3 class="op-kicker">Your Money</h3>
-        <figure class="op-audience-network" dataplacement-id="997092730347328997092753680659"/>
-      </header>
-      <ul>
-  <li>
-    <strong>After years of living in tiny apartments and <a href="https://www.businessinsider.com/category/saving-money">saving
-    money</a> for down payment on a house, Anna Baluch bought her
-    home and hired someone to clean for the first time.</strong>
-  </li>
-  <li>
-    <strong>She did the math and realized that three hours of her
-    time working from home was worth more than the $80 per month
-    she pays her cleaner.</strong>
-  </li>
-  <li>
-    <strong>Paying for the service started to change the way she
-    thinks about outsourcing tasks - even when living frugally, it
-    can be worth spending money to save time.</strong>
-  </li>
-  <li>
-    <a href="https://www.businessinsider.com/?hprecirc-bullet">Visit
-    Business Insider's homepage for more stories</a>.
-  </li>
-</ul>
-      <p>
-  As someone who's instantly stressed by a cluttered space, a clean
-  house is very important to me. Unfortunately, however, cleaning
-  takes time. 
-</p>
-      <p>
-  Scrubbing bathrooms, mopping hardwood floors, vacuuming carpet,
-  wiping down baseboards, and dusting surfaces is a time-consuming
-  endeavor, even if you don't have any kids or pets like me. Even
-  though my house is only about 1,900 square feet, it takes at
-  least three hours to give it a good deep clean.
-</p>
-      <p>
-  I had never used a cleaning before because I had only lived in
-  tiny apartments and had been focused on saving for a down
-  payment. When <a href="https://www.businessinsider.com/paid-off-mortgage-early-freedom-2019-3">
-  we bought our house in central Ohio</a>, I was working a
-  full-time job and writing on the side, so I was a lot busier that
-  I'd been before we moved. A few weeks after we moved in, I
-  decided to try a cleaning service. 
-</p>
-      <figure class="op-interactive">
-
-                <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
-                </figure>
-      <p>
-  I asked for recommendations for trustworthy and professional
-  cleaning professionals in my community's local Facebook page.
-  After interviewing a couple of the recommended cleaners, I found
-  a woman who said she could clean my entire house from top to
-  bottom for $80. I decided to hire her one time to see whether it
-  was worth it.
-</p>
-      <p>
-  She came over one morning while my husband and I were at work and
-  cleaned the top and lower levels of our raised ranch. That
-  afternoon, I came home from work to a sparkling clean house that
-  smelled great and instantly put me in a good mood. I was
-  mesmerized by the polished furniture, glowing floors, and
-  gleaming kitchen counters. It didn't take me long to call her up
-  and let her know that I'd like to hire her to clean my house once
-  a month.
-</p>
-      <p>
-  Since I am now self-employed, my time is more valuable to me than
-  it ever was before. Lost time means lost dollars, so to me and my
-  husband, a cleaning service is well worth the money. I figured
-  out how much I earn on average per hour from writing and realized
-  that it makes financial sense for me to pay $80 a month to have
-  my entire house deep cleaned than lose a few hours of writing
-  time.
-</p>
-      <figure class="op-interactive">
-
-                <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
-                </figure>
-      <p>
-  Also, it's more important to me to spend the weekends relaxing
-  and enjoying time with friends and family than saving $80 once a
-  month. Although I am generally a frugal person, a cleaning
-  service is something I refuse to save money on. It makes my
-  husband and me happy and less-stressed, making it well worth the
-  investment.
-</p>
-      <p>
-  While we still do laundry, put away dishes, organize our mail,
-  and perform other common household chores that keep the house
-  tidy, we don't have to worry about finding the time to clean
-  every single component of every single room in our house. We can
-  count on Lisa, our cleaning provider, to come over on the last
-  Tuesday of every month and work her magic.
-</p>
-      <figure class="op-interactive">
-
-                <iframe><script async type='text/javascript' id="myFinance-widget-script">!function(){function e(){var e=document.createElement("script"),n=document.getElementById("myFinance-widget-script"),a=t+"static/widget/myFinance.js";e.type="text/javascript",e.async=!0,e.src=a,n.parentNode.insertBefore(e,n);var c="myFinance-widget-css";if(!document.getElementById(c)){var d=document.getElementsByTagName("head")[0],i=document.createElement("link");i.id=c,i.rel="stylesheet",i.type="text/css",i.href=t+"static/widget/myFinance.css",i.media="all",d.appendChild(i)}}var t="https://www.myfinance.com/";document.attachEvent?document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&e()}):document.addEventListener("DOMContentLoaded",e,!1)}();</script><div class="myFinance-widget" data-widget-id="d8c4d306-acaa-4f40-8143-1949a50c55fd" data-campaign="bi-cap-one-aff"></div></iframe>
-
-                </figure>
-      <p>
-  Hiring Lisa has showed me that it's worth it to spend money on
-  services that bring convenience and sanity to my life. Now, I'm
-  not afraid to order takeout or groceries online on days that I'm
-  extra busy and simply don't have the time to shop or cook. It's
-  become easier for me to outsource tasks that take up a great deal
-  of my time or make my life more stressful than it needs to be,
-  and for that - along with a sparkling house - I'm grateful I
-  hired a house cleaner.
-</p>
-      <ul>
-  <li>Read more:
-  </li>
-  <li>
-    <a href="https://www.businessinsider.com/money-lessons-from-my-parents-2019-3">4 money
-    lessons my parents taught me as a kid that made me good with
-    money today</a>
-  </li>
-  <li>
-    <a href="https://www.businessinsider.com/delayed-gratification-helped-me-save-money-2019-3">The
-    money-saving philosophy I've used since college has helped me
-    buy the things I truly want</a>
-  </li>
-  <li>
-    <a href="https://www.businessinsider.com/pay-off-mortgage-early">I decided
-    to pay off my mortgage by age 40, and I'm convinced it's one of
-    the best things I've ever done</a>
-  </li>
-  <li>
-    <a href="https://www.businessinsider.com/how-to-get-out-of-student-loan-debt">I paid
-    off $40,000 of student loans in 2 years thanks to a math-based
-    strategy I'd recommend to just about anyone</a>
-  </li>
-</ul>
-      <figure class="op-tracker">
-        <iframe>
-          <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8G4HM" height="0" width="0" style="display:none;visibility:hidden"/>
-          </noscript>
-          <script type="text/javascript">
-Author = "Anna Baluch"
-
-Category = "Outsourcing|Your Money Spending|Personal Finance Insider|PFI Tools|PFI Bankrate|Psychology Of Money|PFI-XAMP"
-
-Editor = "Libby Kane"
-
-Vertical = "yourmoney"
-
-PageType = "post"
-
-PostURI = "hired-house-cleaner-time-is-worth-money-2019-4"
-
-AuthorType = "staff"
-
-DateCreated = "2019-04-02"
-
-DatePublished = "2019-04-28"
-
-OriginalID = ""
-
-PostId = "5ca387d4c6cc50402d762634"
-
-AuthorPublisher = "Business Insider"
-
-ArticleTitle = "After years of saving money, I did the math to figure out what my time is worth and learned there's a smarter way to spend"
-
-CreateUser = "Libby Kane"
-</script>
-          <script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P8G4HM');
-                </script>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <img src="http://www.businessinsider.com/track.gif?post_type=post&post_author_ids=&post_author=Anna Baluch&post_id=5ca387d4c6cc50402d762634&vertical=yourmoney&referer=http://app.fbinstant.com&location=http://www.businessinsider.com/hired-house-cleaner-time-is-worth-money-2019-4"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <script type="text/javascript">
-                    var _sf_async_config = {};
-                    _sf_async_config.uid = 14447;
-                    _sf_async_config.domain = 'businessinsider.com';
-                    _sf_async_config.sections = 'yourmoney,clusterstock';
-                    _sf_async_config.authors = 'Anna Baluch';
-                    _sf_async_config.type = 'story';
-                    _sf_async_config.useCanonical = true;
-                    window._sf_endpt = (new Date()).getTime();
-                </script>
-          <script defer="defer" src="//static.chartbeat.com/js/chartbeat_fia.js"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker"><iframe><script>
-                    var _comscore = _comscore || [];
-                    _comscore.push({c1:"2",c2:"13194393",options:{url_append:"comscorekw=fbia"}});
-                    (function() {
-                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-                    el.parentNode.insertBefore(s, el);
-                    })();
-                </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=13194393&amp;cv=2.0&amp;cj=1&amp;comscorekw=fbia"/></noscript></iframe></figure>
-    </article>
-  </body>
-</html>
-
-                ]]>
-            </content:encoded>
-        </item>
-        <item xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street</title>
-            <link>/jump-trading-invests-in-the-small-exchange-2019-4</link>
-            <guid>5cb79ca3daa9a905a3491f6d</guid>
-            <pubDate>2019-04-30T16:20:00-04:00</pubDate>
-            <author>Dan DeFrancesco</author>
-            <description>Jump Capital, the venture investing arm of Chicago-based Jump Trading, invested $5 million in the Small Exchange.</description>
-            <content:encoded>
-                <![CDATA[
-
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-
-  <head>
-    <meta charset="utf-8"/>
-    <link rel="canonical" href="/jump-trading-invests-in-the-small-exchange-2019-4"/>
-    <meta property="op:markup_version" content="v1.0"/>
-    <meta property="fb:use_automatic_ad_placement" content="true"/>
-    <meta property="fb:article_style" content="default"/>
-    <meta property="og:title" content="One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street"/>
-    <meta property="og:description" content="Jump Capital, the venture investing arm of Chicago-based Jump Trading, invested $5 million in the Small Exchange."/>
-    <meta property="og:image" content="https://amp.businessinsider.com/images/5cb78d07c3b08904224002b3-1920-1440.jpg"/>
-  </head>
-  <body>
-    <article>
-      <header>
-        <time class="op-modified" datetime="2019-04-24T11:59:12">Apr 24, 2019 | 11:59 AM</time>
-        <time class="op-published" datetime="2019-04-30T16:20:00-04:00">Apr 30, 2019 | 4:20 PM</time>
-        <address>
-          <a>Dan DeFrancesco</a>
-        </address>
-        <figure>
-          <img src="https://amp.businessinsider.com/images/5cb78d07c3b08904224002b3-1920-1440.jpg"/>
-          <figcaption class="op-medium op-left">
-            <h1>A trader signals a trade in the S&amp;P futures pit at the CME group in Chicago</h1>
-            <cite>John Gress/Reuters</cite>
-          </figcaption>
-        </figure>
-        <h1>One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street</h1>
-        <h3 class="op-kicker">Finance</h3>
-        <figure class="op-audience-network" dataplacement-id="997092730347328997092753680659"/>
-      </header>
-      <ul>
-  <li>Jump Capital, the venture investing arm of Jump Trading, has
-  invested $5 million in the Small Exchange.
-  </li>
-  <li>Jump Trading, one of the largest futures trading firms, plans
-  to bring liquidity to the exchange, which is catering to Main
-  Street investors with smaller, less-complex futures contracts. 
-  </li>
-  <li>Exchanges have recently shown an interest in attracting
-  individual investors to futures. 
-  </li>
-</ul>
-      <p>
-  The Small Exchange just got a big boost. 
-</p>
-      <p>
-  Jump Capital, the venture investing arm of Chicago-based
-  market-maker Jump Trading, has made a $5 million investment in
-  <a href="https://www.businessinsider.com/small-exchange-hopes-to-bring-more-retail-customers-to-futures-market-2019-1">
-  the trading venue aimed at making futures more accessible to Main
-  Street</a>.
-</p>
-      <p>
-  The Small Exchange plans to offer small-sized futures contracts
-  that are easier to trade for retail customers. Most futures
-  contracts are too expensive for Main Street investors to trade
-  them. 
-</p>
-      <p>
-  "We think that there is an untapped opportunity to make futures
-  products more accessible to individual investors," Peter Johnson,
-  a principal at Jump Capital, told Business Insider. "We think
-  that the combination of the founding team in the Small Exchange
-  ... with our capital markets experience sets them up really well
-  to be successful in that venture." 
-</p>
-      <p>
-  <em><strong>Read more:</strong> <a href="https://www.businessinsider.com/small-exchange-hopes-to-bring-more-retail-customers-to-futures-market-2019-1">
-  A former TD Ameritrade exec wants to make futures trading more
-  accessible to Main Street, and a dozen brokers have signed
-  up</a></em>
-</p>
-      <p>
-  Arguably more important than the investment is Jump's involvement
-  in the exchange as a strategic partner. Jump Trading is one of
-  the largest market-makers in the futures market.
-</p>
-      <p>
-  Johnson said Jump plans to be a "foundational participant" for
-  the exchange, serving as a market-maker there. In January,
-  Roberts told Business Insider 12 brokers had already given verbal
-  commitments to the exchange. 
-</p>
-      <p>
-  "For any new exchange, liquidity is of utmost importance, and
-  having one of the largest futures traders in the world helping to
-  provide that should certainly be helpful in making the exchange
-  attractive," Johnson said. 
-</p>
-      <p>
-  <strong><em>See also:</em></strong> <em><a href="https://www.businessinsider.com/cmes-terry-duffy-talks-about-retail-investors-increased-activity-2019-3">
-  CME's CEO explains how Main Street is taking more control over
-  its portfolio from Wall Street and how the futures exchange is
-  adapting</a></em>
-</p>
-      <p>
-  Donnie Roberts, Small Exchange's CEO and the former president and
-  chief operating officer at TD Ameritrade's futures and forex
-  division, <a href="https://www.businessinsider.com/small-exchange-hopes-to-bring-more-retail-customers-to-futures-market-2019-1">
-  told Business Insider in January</a> the trading venue would
-  initially offer five cash-settled contracts based on proprietary
-  indices.
-</p>
-      <p>
-  The Small Exchange isn't alone in its push to open up the futures
-  market. Earlier this year, <a href="https://www.businessinsider.com/cmes-terry-duffy-talks-about-retail-investors-increased-activity-2019-3">
-  CME unveiled plans to launch micro versions of its most popular
-  futures</a> to cater towards individual investors. In 2018, CME
-  saw a 27% bump in retail customers' trading activity from the
-  previous year. 
-</p>
-      <p>
-  CME's new contracts, which are subject to regulatory approval,
-  are scheduled to go live in May. In January, Roberts said he was
-  aiming to launch the exchange in the beginning of the third
-  quarter, but worried the government shutdown, which was taking
-  place at the time, might impact those plans.
-</p>
-      <p>
-  Johnson dismissed the idea that CME's new contract could eat into
-  the market share the Small Exchange was going after. 
-</p>
-      <p>
-  "We see it as a rise in tide," he said. "It's a recognition of
-  this trend by another big player in the market. ... It brings
-  visibility to these types of products, which is good."
-</p>
-      <p>
-  <em><strong><a href="http://newsletter.businessinsider.com/join/4np/wall-st-insider&amp;hash=f4e91136c13f3c40c496d77bc7347502">
-  Sign up here</a> for our weekly newsletter Wall Street Insider, a
-  behind-the-scenes look at the stories dominating banking,
-  business, and big deals.</strong></em>
-</p>
-      <figure class="op-tracker">
-        <iframe>
-          <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8G4HM" height="0" width="0" style="display:none;visibility:hidden"/>
-          </noscript>
-          <script type="text/javascript">
-Author = "Dan DeFrancesco"
-
-Category = "BI Prime|Small Exchange|Jump Trading"
-
-Editor = "Dan DeFrancesco"
-
-Vertical = "clusterstock"
-
-PageType = "post"
-
-PostURI = "jump-trading-invests-in-the-small-exchange-2019-4"
-
-AuthorType = "staff"
-
-DateCreated = "2019-04-17"
-
-DatePublished = "2019-04-30"
-
-OriginalID = ""
-
-PostId = "5cb79ca3daa9a905a3491f6d"
-
-AuthorPublisher = "Business Insider"
-
-ArticleTitle = "One of the largest futures trading firms just backed an exchange looking to open the market up to Main Street"
-
-CreateUser = "Dan DeFrancesco"
-</script>
-          <script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'$amp;l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P8G4HM');
-                </script>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <img src="http://www.businessinsider.com/track.gif?post_type=post&post_author_ids=&post_author=Dan DeFrancesco&post_id=5cb79ca3daa9a905a3491f6d&vertical=clusterstock&referer=http://app.fbinstant.com&location=http://www.businessinsider.com/jump-trading-invests-in-the-small-exchange-2019-4"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker">
-        <iframe>
-          <script type="text/javascript">
-                    var _sf_async_config = {};
-                    _sf_async_config.uid = 14447;
-                    _sf_async_config.domain = 'businessinsider.com';
-                    _sf_async_config.sections = 'clusterstock,prime';
-                    _sf_async_config.authors = 'Dan DeFrancesco';
-                    _sf_async_config.type = 'story';
-                    _sf_async_config.useCanonical = true;
-                    window._sf_endpt = (new Date()).getTime();
-                </script>
-          <script defer="defer" src="//static.chartbeat.com/js/chartbeat_fia.js"/>
-        </iframe>
-      </figure>
-      <figure class="op-tracker"><iframe><script>
-                    var _comscore = _comscore || [];
-                    _comscore.push({c1:"2",c2:"13194393",options:{url_append:"comscorekw=fbia"}});
-                    (function() {
-                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-                    el.parentNode.insertBefore(s, el);
-                    })();
-                </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=13194393&amp;cv=2.0&amp;cj=1&amp;comscorekw=fbia"/></noscript></iframe></figure>
-    </article>
-  </body>
-</html>
-
-                ]]>
-            </content:encoded>
-        </item>
-    </channel>
+		<guid isPermaLink="false">https://superhitvideo.com/?p=1082</guid>
+		<description><![CDATA[<p>Official Music Video &#8211; Hardwell &#8211; How You Love Me (feat. Conor Maynard &#38; Snoop Dogg) Hardwell &#8211; How You Love Me Lyrics Big Snoop Dogg My nephew Hardwell on the beat Give it to me I wanna wake up now &#8216;And see you there when I turn &#8217;round I wanna see you smile When [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://superhitvideo.com/hardwell-how-you-love-me-lyrics/">Hardwell &#8211; How You Love Me Lyrics</a> appeared first on <a rel="nofollow" href="https://superhitvideo.com">Superhit Video</a>.</p>
+]]></description>
+		<wfw:commentRss>https://superhitvideo.com/hardwell-how-you-love-me-lyrics/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
 </rss>
