@@ -1,23 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-   <channel>
-      <title>Chen's News</title>
-      <link>https://lolitschen.github.io/</link>
-      <description>Read latest news and breaking news in Marathi only at News18 Lokmat. Get latest Marathi news on politics, sports, entertainment, Cricket and more from Maharashtra and World.</description>
-      <language>marathi</language>
-      <lastBuildDate>October, 31 Oct 2019 21:36:25 +0530</lastBuildDate>
-      <item>
-         <title><![CDATA[पुन्हा #MeToo, अन्नू मलिकवर या गायिकेनं केला लैंगिक गैरवर्तनाचा आरोप]]></title>
-         <link>https://lolitschen.github.io/sevtesting1232</link>
-         <guid>416640</guid>
-         <pubDate>Thu, 31 Oct 2019 21:18:42 +0530</pubDate>
-         <author>News18 Lokmat</author>
-         <description><![CDATA[त्यांना भेटायला गेले असताना तो सोफ्यावर झोपलेला होता आणि माझ्या डोळ्यांविषयी चर्चा करत होता.]]></description>
-         <content:encoded>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <channel>
+        <title>[FB Test Page] [FB-Only] Chen Test Ads</title>
+        <link>https://lolitschen.github.io/rss_test1.rss</link>
+        <description>
+          Read our awesome news every day.
+        </description>
+        <language>en-us</language>
+        <lastBuildDate>2022-01-27 10:12:51</lastBuildDate>
+        <item>
+          <title>Chen's sample article.</title>
+          <link>http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:1643307171</link>
+          <guid>30e60970-6473-4274-a137-4674b7e19ff2</guid>
+          <pubDate>2022-01-27 10:12:51</pubDate>
+          <content:encoded>
             <![CDATA[
-<!doctype html><html lang="mr" prefix="op: http://media.facebook.com/op#"><head><meta charset="utf-8"><link rel="canonical" href="https://lolitschen.github.io/sevtesting1232"><meta property="op:markup_version" content="v1.0"><meta property="fb:pages" content="163061003704422" /><meta property="fb:use_automatic_ad_placement" content="enable=true"><meta property="fb:article_style" content="default"></head><body><article><header><figure><img src="https://static.lokmat.news18.com/optimize/PWv7ZGUET9341IUydBtmbXO4Vuk=/0x0/static.lokmat.news18.com/ibnlokmat/uploads/2019/10/debit-card.jpg"><figcaption>देशभरातल्या सुमारे 12 लाख डेबिट आणि क्रेडिट कार्डांचा डेटा लीक झाला आहे. एवढंच नाही तर या डेटाची ऑनलाइन विक्री होतेय.</figcaption></figure><figure class="op-ad"><iframe width="320" height="50" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=1072085632983020_1072086389649611&adtype=banner300x250"></iframe></header><h1>सावधान! लाखो भारतीयांच्या डेबिट- क्रेडिट कार्ड डेटाची होतेय चोरी</h1><h2>देशभरातल्या सुमारे 12 लाख डेबिट आणि क्रेडिट कार्डांचा डेटा लीक झाला आहे. एवढंच नाही तर या डेटाची ऑनलाइन विक्री होतेय.</h2><h2 class="op-kicker">बातम्या</h2><author>News18 Lokmat</author><time class="op-published" dateTime="Thu, 31 Oct 2019 20:16:03 +0530">Thu, 31 Oct 2019 20:16:03 +0530</time><time class="op-modified" dateTime="Thu, 31 Oct 2019 20:16:03 +0530">Thu, 31 Oct 2019 20:16:03 +0530</time><figure class="op-tracker"><iframe><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-156703-3', 'auto'); ga('require', 'displayfeatures'); ga('set', 'campaignSource', 'Facebook'); ga('set', 'campaignMedium', 'Social Instant Article'); ga('set', 'title', 'IA -सावधान! लाखो भारतीयांच्या डेबिट- क्रेडिट कार्ड डेटाची होतेय चोरी'); ga('send', 'pageview'); </script></figure><figure class="op-tracker"><iframe><script>var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6683813" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1" /></noscript></iframe></figure><p><strong>मुंबई, 31 ऑक्टोबर :</strong> देशभरातल्या सुमारे 12 लाख डेबिट आणि क्रेडिट कार्डांचा डेटा लीक झाला आहे. एवढंच नाही तर या डेटाची ऑनलाइन विक्री होतेय. सिंगापूरमधल्या IB सिक्युरिटी रिसर्च टीमने डार्क वेबवर क्रेडिट आणि डेबिट कार्डांच्या एका डेटाबेसचा पर्दाफाश केला आहे. या कार्डांचा डेटा सिंगापूरमधला Joker’s Stash नावाच्या डार्कनेट मार्केट प्लेस वर विकला जातोय.</p><p>टाइम्स ऑफ इंडिया ने दिलेल्या बातमीनुसार, हॅकर्सच्या वेबसाइटवर जी माहिती दिली गेलीय त्यात 98 टक्के माहिती भारतीयांच्या डेबिट आणि क्रेडिट कार्डांबदद्ल आहे.</p><p><strong><a title="या कारणांमुळे सोनं झालं एवढं महाग, हे आहेत आजचे दर" href="https://lokmat.news18.com/money/gold-and-silver-rates-today-international-gold-market-money-thursday-31-october-mhka-416611.html">(हेही वाचा : या कारणांमुळे सोनं झालं एवढं महाग, हे आहेत आजचे दर)</a></strong></p><p>ही सगळी कार्ड एकाच बँकेची नाहीत. त्यामुळे हे मोठ्या स्तरावरचं रॅकेट आहे, असं म्हणता येणार नाही, असं ZDNet च्या अहवालात म्हटलं आहे. 2016 मध्ये अशाच प्रकारे डेटाची चोरी झाली होती. त्यावेळी32 लाख डेबिट कार्डांचा तपशील चोरीला गेला होता. यात येस बँक, SBI यासह दुसऱ्या बँकांच्या क्रेडिट कार्डांचा समावेश होता. हे उघड झाल्यानंतर बँकांनी ग्राहकांना दुसरी क्रेडिट कार्ड दिली.</p><p>ही चोरी फक्त भारतीय बँकांच्या बाबतीत होते, असं नाही. यावर्षी फेब्रुवारीमध्ये 20 लाख अमेरिकी कार्डांचा डेटा चोरी झाल्याची बातमी आली होती. त्यामुळे जगभरातच डेबिट आणि क्रेडिट कार्डांच्या सुरक्षेवर प्रश्नचिन्ह आहे.</p><p>===========================================================================================</p><p>VIDEO: राज्यपालांच्या भेटीनंतर आदित्य ठाकरेंची पहिली प्रतिक्रिया</p></p><figure class="op-interactive"><iframe width="560" height="315" src="https://lokmat.news18.com/embed/videos/NDE2NjEz/"></iframe></figure><figure class="op-ad"><iframe height="250" style="border:0;margin:0;padding:0;" width="300"><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script> var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; </script><script> window.googletag = window.googletag || {cmd: []}; googletag.cmd.push(function() { googletag.defineSlot("/1039154/IA_News18_Regional/IA_News18_Regional_Lokmat_300x250", [300, 250], "div-gpt-ad-1563255464952-0").addService(googletag.pubads()); googletag.pubads().setTargeting("baygon", "false"); googletag.pubads().setTargeting("googknight", "false"); googletag.enableServices(); }); </script><div id="div-gpt-ad-1563255464952-0" style="width: 300px; height: 250px;"><script> googletag.cmd.push(function() { googletag.display("div-gpt-ad-1563255464952-0"); }); </script></div></iframe></figure><footer><ul class="op-related-articles"><li><a href="https://lokmat.news18.com/entertainment/me-too-bollywood-neha-bhasin-recalls-how-indian-idol-judge-anu-malik-made-her-uncomfortable-once-mhak-416640.html">पुन्हा #MeToo, अन्नू मलिकवर या गायिकेनं केला लैंगिक गैरवर्तनाचा आरोप</a></li><li><a href="https://lokmat.news18.com/mumbai/goodwin-jewellers-scam-gold-scam-in-mumbai-maharashtra-mhsp-416638.html">'गुडविन'च्या मालकाची मर्सिडीज जप्त.. पलावा सिटीतील 2 फ्लॅट्सही केले सील</a></li><li><a href="https://lokmat.news18.com/money/credit-debit-card-data-leak-cyber-crime-data-online-sell-indians-debit-cards-money-mhka-416619.html">सावधान! लाखो भारतीयांच्या डेबिट- क्रेडिट कार्ड डेटाची होतेय चोरी</a></li></ul><small>Copyright &copy; 2019 lokmat.news18.com</small></footer></article></body></html>
-]]>
-         </content:encoded>
-      </item>
-   </channel>
-</rss>
+              <!doctype html>
+      <html lang="en" prefix="op: http://media.facebook.com/op#">
+        <head>
+          <meta charset="utf-8">
+          <link rel="canonical" href="http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:1643307171">
+          <title>Chen's sample article.</title>
+        </head>
+        <body>
+          <article>
+            <header>
+              <h1>Test</h1>
+              <time class="op-published" datetime="2022-01-27 10:12:51">2022-01-27 10:12:51</time>
+              <time class="op-modified" datetime="2022-01-27 10:12:51">2022-01-27 10:12:51</time>
+            </header>
+            
+    <p>
+      This article is a sample article and it has at least 50 words!
+      Bunnylol `iam` to get sample markup.
+      Lorem ipsum dolor sit amet.
+      Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    </p>
+    
+    <figure>
+      <video loop data-fade>
+         <source src="https://av.voanews.com/Videoroot/Pangeavideo/2022/01/b/b8/b8337e7b-5e92-4837-a9ae-cab1a549be8f_1080p.mp4" type="video/mp4"/>
+      </video>
+    </figure>
+    
+          </article>
+        </body>
+      </html>
+            ]]>
+          </content:encoded>
+        </item>
+      </channel>
+    </rss>
