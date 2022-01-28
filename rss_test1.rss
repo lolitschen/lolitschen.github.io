@@ -6,27 +6,27 @@
           Read our awesome news every day.
         </description>
         <language>en-us</language>
-        <lastBuildDate>2022-01-27 10:12:51</lastBuildDate>
+        <lastBuildDate>2022-01-28 07:37:28</lastBuildDate>
         <item>
           <title>Chen's sample article.</title>
-          <link>http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:16asdasd43307171</link>
-          <guid>30e60970-6473-4274-a137-4674b7e19ff2</guid>
-          <pubDate>2022-01-27 10:12:51</pubDate>
+          <link>http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:1643384248</link>
+          <guid>601b1c72-17a7-456f-a9d1-4e842a751ca4</guid>
+          <pubDate>2022-01-28 07:37:28</pubDate>
           <content:encoded>
             <![CDATA[
               <!doctype html>
       <html lang="en" prefix="op: http://media.facebook.com/op#">
         <head>
           <meta charset="utf-8">
-          <link rel="canonical" href="http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:1643307171">
-          <title>Video Ingested from RSS</title>
+          <link rel="canonical" href="http://www.home.fburl.com/~chenlu1/chenlu1/testarticle:timestamp:1643384248">
+          <title>Chen's sample article 2 video.</title>
         </head>
         <body>
           <article>
             <header>
               <h1>Test</h1>
-              <time class="op-published" datetime="2022-01-27 10:12:51">2022-01-27 10:12:51</time>
-              <time class="op-modified" datetime="2022-01-27 10:12:51">2022-01-27 10:12:51</time>
+              <time class="op-published" datetime="2022-01-28 07:37:28">2022-01-28 07:37:28</time>
+              <time class="op-modified" datetime="2022-01-28 07:37:28">2022-01-28 07:37:28</time>
             </header>
             
     <p>
@@ -40,7 +40,7 @@
     
     <figure>
       <video loop data-fade>
-         <source src="https://av.voanews.com/Videoroot/Pangeavideo/2022/01/b/b8/b8337e7b-5e92-4837-a9ae-cab1a549be8f_1080p.mp4" type="video/mp4"/>
+        <source src="https://av.voanews.com/Videoroot/Pangeavideo/2022/01/b/b8/b8337e7b-5e92-4837-a9ae-cab1a549be8f_1080p.mp4" type="video/mp4"/>
       </video>
     </figure>
     
